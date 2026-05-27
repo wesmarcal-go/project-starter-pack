@@ -1,0 +1,29 @@
+{
+  "name": "@wesmarcal/claude-starter",
+  "version": "1.0.1",
+  "description": "Starter pack de skills para Claude Code — create-a-context, grill-me e write-a-skill",
+  "bin": {
+    "claude-starter": "bin/init.js"
+  },
+  "files": [
+    "bin/",
+    ".claude/skills/",
+    "AGENTS.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "ai",
+    "anthropic",
+    "starter-pack"
+  ],
+  "author": "Wes Marcal",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}

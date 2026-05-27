@@ -14,7 +14,21 @@
       "Edit(/.claude/skills/grill-me/**)",
       "Bash(git -C /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack status)",
       "Bash(git config *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(chmod +x /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/bin/init.js)",
+      "Read(//private/tmp/test-claude-starter/**)",
+      "Bash(node /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/bin/init.js)",
+      "Bash(rm -rf /tmp/test-claude-starter)",
+      "Bash(npm pack *)",
+      "Bash(npm whoami *)",
+      "Bash(npm publish --access public)",
+      "Bash(npm config *)",
+      "Bash(npm --version)",
+      "Bash(npm pkg *)",
+      "Bash(npm publish *)",
+      "Bash(mkdir -p /tmp/test-claude-starter2)",
+      "Bash(node /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/bin/init.js --force)",
+      "Bash(rm -rf /tmp/test-claude-starter2)"
     ],
     "additionalDirectories": [
       "/Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills",
