@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/wes/Documents/02_projetos-dev/SKILL-fluxo-construcao-de-site-via-figma/.claude/skills/skill-creator/)",
+      "Read(//Users/wes/Documents/02_projetos-dev/SKILL-fluxo-construcao-de-site-via-figma/.agents/skills/skill-creator/**)",
+      "Bash(mkdir -p /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills/write-a-skill)",
+      "Edit(/.claude/skills/write-a-skill/**)",
+      "Edit(/.claude/skills/entrevista-claude-md/**)",
+      "Bash(mkdir -p /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills/create-a-context && ls /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills/)",
+      "Edit(/.claude/skills/create-a-context/**)",
+      "Bash(rm -rf /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills/entrevista-claude-md && ls /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills/create-a-context/ && echo \"---\" && ls /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills/)",
+      "Read(//Users/wes/.claude/**)",
+      "Read(//Users/wes/Documents/02_projetos-dev/**)",
+      "Edit(/.claude/skills/grill-me/**)",
+      "Bash(git -C /Users/wes/Documents/02_projetos-dev/00_meu-starter-pack status)",
+      "Bash(git config *)",
+      "Bash(git commit *)"
+    ],
+    "additionalDirectories": [
+      "/Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills",
+      "/Users/wes/Documents/02_projetos-dev/00_meu-starter-pack/.claude/skills/entrevista-claude-md"
+    ]
+  }
+}
