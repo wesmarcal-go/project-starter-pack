@@ -37,7 +37,13 @@ Dispara quando você pede: `"escreve uma skill para X"`, `"cria uma skill"`, `"c
 
 ## Como usar
 
-Instale as skills no seu projeto Claude Code copiando a pasta `.claude/skills/` para a raiz do projeto desejado, ou referencie este repositório como source de skills.
+**Via npx (recomendado)** — instala as skills direto no projeto atual:
+
+```bash
+npx @wesmarcal/claude-starter
+```
+
+**Manualmente** — copie a pasta `.claude/skills/` para a raiz do projeto desejado:
 
 ```bash
 cp -r .claude/skills/ /seu-projeto/.claude/skills/
