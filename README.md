@@ -40,7 +40,7 @@ Dispara quando você pede: `"escreve uma skill para X"`, `"cria uma skill"`, `"c
 **Via npx (recomendado)** — instala as skills direto no projeto atual:
 
 ```bash
-npx @wesmarcal/claude-starter
+npx @wesmarcal/project-starter-pack
 ```
 
 **Manualmente** — copie a pasta `.claude/skills/` para a raiz do projeto desejado:

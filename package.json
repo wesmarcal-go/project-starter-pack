@@ -1,9 +1,9 @@
 {
-  "name": "@wesmarcal/claude-starter",
-  "version": "1.0.1",
+  "name": "@wesmarcal/project-starter-pack",
+  "version": "1.0.0",
   "description": "Starter pack de skills para Claude Code — create-a-context, grill-me e write-a-skill",
   "bin": {
-    "claude-starter": "bin/init.js"
+    "project-starter-pack": "bin/init.js"
   },
   "files": [
     "bin/",
